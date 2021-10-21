@@ -14,7 +14,7 @@ public class Main {
     }
 
     static char[] kodkampusu_sifreolusturma(int uzunlukdegeri) {
-        String karakterler = "ela";
+        String karakterler = "fırat";
 
         String deger = karakterler;
 
